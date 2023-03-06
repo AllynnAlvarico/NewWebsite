@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+.footerDisplay {
+	background-color: darkturquoise;
+	height: 100px;
+	width: 100%;
+	position: absolute;	
+}
+.footerSectionLeft {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.footerSectionLeft p {
+	color: white;
+	text-align: left;
+	float: left;
+	padding: 15px;
+	margin: 0px;
+	display: inline-block;
+	left: 1%;
+	position: absolute;
+}
+.footerSectionCenter {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.footerSectionCenter p{
+  	margin: 0;
+  	position: absolute;
+  	left: 45%;
+  	padding-top: 60px;
+  	color: white;
+}
+.footerSectionRight {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.footerSectionRight img {
+	right: 3px;
+	position: absolute;
+	padding-top: 30px;
+}

@@ -1,6 +1,29 @@
 @charset "utf-8";
 /* CSS Document */
+.MainContainer {
+	display: flex;
+	padding-top: 5%;
+	padding-bottom: 5.4%;
+}
+.ListContainerLeft {
+	margin-left: 5%;
+	margin-top: 2%;
+	display: flex;
+	color: blue;
+	margin-top: 45px;
+	
+}
 .imgContainerRight {
-	float: right;
 	overflow: hidden;
+	position: absolute;
+	left: 66%;
+	top: 19%;
+	z-index: -5;
+}
+.ListContainer{
+	padding-left: 50px;
+	padding-bottom: 50px;
+	padding-right: 50px;
+	margin-left: 50px;
+	
 }

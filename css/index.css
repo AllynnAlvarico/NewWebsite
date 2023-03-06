@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+.left-Container {
+	float: left;
+	overflow: hidden;
+}
+.right-Container {
+	overflow: hidden;
+	padding-top: 150px;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: 20px;
+	margin-right: 80px;
+	letter-spacing: 0.9px;
+	color: blue;
+	font-family: Constantia, 'Lucida Bright', 'DejaVu Serif', Georgia, 'serif';
+	font-size: 20px;
+}
